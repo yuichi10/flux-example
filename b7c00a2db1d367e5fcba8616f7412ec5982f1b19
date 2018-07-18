@@ -1,0 +1,1 @@
+{"jobID":"c78f6f36-ba63-9a61-8762-a5ff21853cf6","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
