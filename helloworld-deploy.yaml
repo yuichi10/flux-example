@@ -3,8 +3,6 @@ apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
   name: helloworld
-  annotations:
-    flux.weave.works/automated: 'true'
 spec:
   minReadySeconds: 5
   replicas: 2
